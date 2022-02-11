@@ -1,0 +1,4 @@
+[DB]
+FILES=3.txt
+THREAD=50
+SESSION=https://www.missbnailsandbeauty.com
